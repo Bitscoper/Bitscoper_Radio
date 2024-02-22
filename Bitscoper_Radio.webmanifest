@@ -1,0 +1,100 @@
+{
+  "background_color": "#FFFFFF",
+  "categories": ["music", "multimedia", "video"],
+  "description": "Bitscoper Radio",
+  "dir": "ltr",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay"],
+  "edge_side_panel": {
+    "preferred_width": 376
+  },
+  "handle_links": "preferred",
+  "icons": [
+    {
+      "src": "/Bitscoper_Radio_48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "/Bitscoper_Radio_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "id": "/",
+  "lang": "en",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  },
+  "name": "Bitscoper Radio",
+  "orientation": "portrait",
+  "protocol_handlers": [
+    {
+      "protocol": "web+Bitscoperradio",
+      "url": "/%s"
+    }
+  ],
+  "scope": "/",
+  "scope_extensions": [
+    {
+      "origin": "bitscoper.live"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/ScreenShot.jpeg",
+      "type": "image/jpeg",
+      "sizes": "540x720",
+      "label": "Bitscoper Radio"
+    }
+  ],
+  "short_name": "Bitscoper Radio",
+  "shortcuts": [
+    {
+      "name": "Bitscoper Radio",
+      "description": "Bitscoper Radio",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/Bitscoper_Radio_192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#424242"
+}
