@@ -1,2 +1,2 @@
-# Bitscoper_Radio
+# Bitscoper Radio
 An Icecast UI
