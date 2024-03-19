@@ -216,7 +216,7 @@
                 </xsl:for-each>
                 <div id="footer"> Bitscoper Radio | Powered by <a
                         href="https://bitscoper.live/" target="new" title="Igniter of Machines">
-        Bitscoper</a> | © <a href="https://github.com/Bitscoper/"
+        Bitscoper</a> | © <a href="https://github.com/bitscoper/"
                         title="Abdullah As-Sadeed" target="new">Abdullah As-Sadeed</a>
                 </div>
                 <script src="Bitscoper_Radio.js"></script>
